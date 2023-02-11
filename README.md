@@ -7,5 +7,5 @@ Note that Zin is the impedance looking into the input port of an L-Network that 
 The MATLAB script, "k6jca_220725_L", uses MATLAB's Symbolic Math Toolbox to derive the equations for an L-Network's shunt-component's susceptance (B) and its series-component's reactance (X).
 
 Notes:
-1.  The L-Network is assumed to be lossless
+1.  The L-Network is assumed to be lossless.
 2.  Rin and Rload cannot be negative.
